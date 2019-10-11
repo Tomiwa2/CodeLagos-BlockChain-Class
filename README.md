@@ -4,7 +4,7 @@ Thank you so much for going through the course with me at CodeLagos.
 
 As with anything and any knowledge, this is not the end, this is just the beginning and it is now up to you to push forward and improve yourself.
 
-I have arranged all the class resources and put them into this repository
+I have arranged all chsclass resources and put them into this repository
 
 # On Community
 
